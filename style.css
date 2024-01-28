@@ -1,0 +1,51 @@
+
+body {
+    background-color: rgb(252, 247, 242);
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(Delicate\ Minimal\ Motivational\ Desktop\ Wallpaper.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+il{
+    margin-right: 150px
+    
+}
+
+h1 {
+    color: cornflowerblue;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+h2{
+    margin-left: 200px;
+}
+
+.a>img {
+    min-width: 250px;
+    max-width: 250px;
+}
+
+.b>img {
+    min-width: 250px;
+    max-width: 250px;
+}
+.c>img {
+    min-width: 250px;
+    max-width: 250px;
+}
+.a {
+    width: 400px;
+    float: inline-start;
+    margin: 10px;
+}
+
+.b {
+    width: 400px;
+    float: inline-start;
+    margin: 30px;
+}
+.c {
+    width: 400px;
+    float: inline-start;
+    margin: 30px;
+}
